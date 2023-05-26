@@ -20,4 +20,4 @@
 
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=coeeen&show_icons=true&locale=en&layout=compact" alt="coeeen" /></p>
+<p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=coeeen&show_icons=true&locale=en&layout=compact" alt="coeeen" /></p>
