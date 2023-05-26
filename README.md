@@ -9,10 +9,10 @@
 
 <h3 align="center">Contact with me:</h3>
 <p align="center">
-- 📫 How to reach me **krystanjank@gmail.com**
+- 📫 How to reach me krystanjank@gmail.com
 <br>
 <br>
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning React Native
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
