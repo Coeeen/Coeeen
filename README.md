@@ -12,7 +12,8 @@
 - 📫 How to reach me krystanjank@gmail.com
 <br>
 <br>
-YOU CAN FIND MY 3D PROJECT'S HERE(https://www.artstation.com/krystian_jank)
+Here you can find my 3D project's<br>
+https://www.artstation.com/krystian_jank
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
