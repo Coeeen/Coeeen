@@ -12,7 +12,7 @@
 - 📫 How to reach me krystanjank@gmail.com
 <br>
 <br>
-- 🌱 I’m currently learning React Native
+YOU CAN FIND MY 3D PROJECT'S HERE(https://www.artstation.com/krystian_jank)
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
