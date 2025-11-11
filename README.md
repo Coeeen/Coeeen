@@ -1,21 +1,46 @@
-<h1 align="center">Hi 👋, I'm Krystian Jank</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
-<p align="center">
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> 
+# Hello there, I am Krystian Jank 👋
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="krystian-jank" /></p>
+
+## My tech stack
+
+<p align="left"> 
+  <a><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  &emsp;
+  <a><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a>
+  &emsp;
+  <a><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"></a>
+  &emsp;
+  <a><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vue.js&logoColor=white"></a>
+  &emsp;
+  <a><img alt="Quasar" src="https://img.shields.io/badge/Quasar-1976D2.svg?logo=quasar&logoColor=white"></a>
+  &emsp;
+  <a><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
+  &emsp;
+  <a><img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB.svg?logo=react&logoColor=black"></a>
+  &emsp;
+  <a><img alt="Express" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white"></a>
+  &emsp;
+  <a><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"></a>
+  &emsp;
+  <a><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
+  &emsp;
+  <a><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+  &emsp;
+  <a><img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C.svg?logo=cypress&logoColor=white"></a>
+  &emsp;
+  <a><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
+  &emsp;
+  <a><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
 </p>
 
+## About me
+
+I am a Computer Science Engineer, graduated from the Polish-Japanese Academy of Information Technology. Currently, I am continuing my education at the Master's level (Computer Science). I focus on building scalable and well-structured web applications, and I enjoy working with modern frameworks.
+
+I value clear architecture and continuous development. I actively expand my skills by working with new technologies, and I am currently strengthening my backend competencies to progress toward a full-stack developer profile.
 
 
 
-<h3 align="center">Contact with me:</h3>
-<p align="center">
-- 📫 How to reach me krystanjank@gmail.com
-<br>
-<br>
-Here you can find my 3D project's<br>
-https://www.artstation.com/krystian_jank
-</p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
